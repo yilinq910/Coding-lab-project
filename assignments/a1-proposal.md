@@ -3,8 +3,8 @@ GitHub username: {yilinq910}
 Repository SSH: {git@github.com:yilinq910/Coding-lab-project.git}
 
 ## Description
-Policy question: {ONE focused question}
-{2-3 sentences about what you hope to show in your article.}
+Policy question: {Which Chicago community areas have the highest teen birth rates?}
+{I hope to show which neighborhoods have the highest teen birth rates and how large the gap is between the highest and lowest areas. I also plan to compare these areas with poverty rates to see whether high teen birth rates are concentrated in lower-income communities.}
 
 ## Data Source: {Public Health Statistics - Selected public health indicators by Chicago community area - Historical}
 URL: {https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu/about_data}
